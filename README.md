@@ -30,8 +30,6 @@
 <br />
 <br />
 
----
-
 <img align="left" alt="Vishal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaiswalvishal86&show_icons=true&hide_border=true" />
 
 [website]: http://vishaljaiswal.netlify.com/
